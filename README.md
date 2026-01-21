@@ -1,6 +1,7 @@
 # CRMS - Crime Record Management System
 
 Three-layer architecture: **Next.js** (UI) → **Python** (Bridge) → **MIPS Assembly** (Backend Logic)
+<img width="1887" height="916" alt="image" src="https://github.com/user-attachments/assets/370eab7f-69b3-41d0-93c9-c94617c60933" />
 
 ## Quick Start
 
